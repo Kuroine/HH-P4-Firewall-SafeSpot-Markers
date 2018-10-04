@@ -84,9 +84,9 @@ module.exports = function hhmarker(dispatch) {
 	}
 	
 	function Despawn(uid){
-	dispatch.toClient('S_DESPAWN_COLLECTION', 1, {
-			uid : uid,
-			unk : 0
+	dispatch.toClient('S_DESPAWN_COLLECTION', 2, {
+			gameId : uid,
+			collected : 0
 		});
 	}
 
