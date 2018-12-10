@@ -1,7 +1,5 @@
 //Thanks to Riseno and Ethical for coordinates, testing and stuff.
-const	{protocol} = require('tera-data-parser'),
-		Command = require('command'),		
-		HARROWHOLD = 9950,
+const	HARROWHOLD = 9950,
 		MARKER = 556,			 // big Flower
 		COORDS = [
 		{x:-7364,y:-83180,z:1},  // Front (head)
@@ -15,7 +13,7 @@ const	{protocol} = require('tera-data-parser'),
 		{x:-8908,y:-84001,z:1}]; // Right-Middle
 
 module.exports = function hhmarker(dispatch) {
-	const command = Command(dispatch)
+	const command = dispatch.command
 	let enabled = true,
 		inDung = false,
 		uid = 999999999,
