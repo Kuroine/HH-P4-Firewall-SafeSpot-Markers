@@ -1,6 +1,6 @@
 //Thanks to Riseno and Ethical for coordinates, testing and stuff.
 const	HARROWHOLD = 9950,
-		MARKER = 556,			 // big Flower
+		MARKER = 477,			 // green ore
 		COORDS = [
 		{x:-7364,y:-83180,z:1},  // Front (head)
 		{x:-8946,y:-84887,z:1},  // Right-Back leg
