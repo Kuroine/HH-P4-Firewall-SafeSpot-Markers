@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "HH-Firewall-SafeSpot-Markers",
+	"author": "Owyn",
+	"description": "Places shiny ore items on safespots for HH P4",
+	"options": {
+		"niceName": "HH-Firewall-SafeSpot-Markers",
+		"guiName": "HH Firewall SafeSpot Markers"
+	},
+	"servers": ["https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/"],
+	"supportUrl": "https://github.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/issues"
+}
