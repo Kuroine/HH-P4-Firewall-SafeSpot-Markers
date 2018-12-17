@@ -1,8 +1,6 @@
 # Only for P4
 # HH-Firewall-Markers
 
-!hhmarker or /hhmarker to toggle on or off
+<img src=http://u.cubeupload.com/Owyn/p4markers.jpg>
 
-# Requires
-
-https://github.com/pinkipi/command
+**hhmarker** to toggle on or off
