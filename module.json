@@ -3,6 +3,6 @@
     "name": "HH-P4-Firewall-SafeSpot-Markers",
     "author": "K",
     "description": "Description goes here.",
-    "servers": ["https://raw.githubusercontent.com/Kuroine/HH-P4-Firewall-SafeSpot-Markers/master"],
+    "servers": ["https://raw.githubusercontent.com/Kuroine/HH-P4-Firewall-SafeSpot-Markers/master/"],
     "supportUrl": "https://github.com/Kuroine"
 }
