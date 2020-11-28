@@ -1,13 +1,13 @@
 {
-	"files": {
-		"README.md": "046cfccb4cd032ce66b009da14760566acc36c2944cde5937bc5cbe461cdb733",
-		"index.js": "78102415c1bd890f1b718023309523290cea14d1445bc6a53d03b50566dd1b0d",
-		"module.json": "45a3b2b86331a4f8f0c6922433497aa01665a2e3b4e88a2e747aedcc32b81050"
-	},
-	"defs": {
-		"C_LOAD_TOPO_FIN": 1,
-		"S_DESPAWN_COLLECTION": 2,
-		"S_LOAD_TOPO": 3,
-		"S_SPAWN_COLLECTION": 4
-	}
+    "files": {
+        "README.md": "046cfccb4cd032ce66b009da14760566acc36c2944cde5937bc5cbe461cdb733",
+        "index.js": "78102415c1bd890f1b718023309523290cea14d1445bc6a53d03b50566dd1b0d",
+        "module.json": "e27d6c5705944364642f20ede24aef09110955d89519513fea80f2d1e16a2b2d"
+    },
+    "defs": {
+        "C_LOAD_TOPO_FIN": 1,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_COLLECTION": 4
+    }
 }
